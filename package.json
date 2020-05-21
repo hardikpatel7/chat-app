@@ -11,8 +11,8 @@
   "keywords": [
     "NodeJS",
     "Socket-io",
-    "chat-app",
-    "NodeJS-javascript"
+    "chat-app"
+    
   ],
   "license": "ISC",
   "dependencies": {
